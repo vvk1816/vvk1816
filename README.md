@@ -1,89 +1,127 @@
-# 👋 Hi, I'm Vivek Vardhan
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Developer;Robotics+Explorer;Cloud+Learner;Entrepreneur" />
-</p>
+<!--                    VIVEK GITHUB PROFILE                   -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=180&section=header&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0b1020" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=f59e0b&labelColor=0b1020" />
-</p>
+<!-- ======================= HERO ============================ -->
+
+<div align="center">
+
+<img src="./assets/profile-banner.png" width="100%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=950&lines=COMPUTER+SCIENCE+STUDENT;AI+%26+ML+ENTHUSIAST;SOFTWARE+DEVELOPER;ROBOTICS+EXPLORER;CLOUD+COMPUTING+ENTHUSIAST;TECHNOLOGY+%26+INNOVATION+BUILDER"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS">
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C3AED&labelColor=0D1117&label=FOLLOWERS">
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=F59E0B&labelColor=0D1117&label=STARS">
+
+</div>
 
 ---
 
-## ⚡ WHO AM I?
+# 👋 Hello, I'm Vivek
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+
+### `Computer Science Student` • `AI/ML Enthusiast` • `Developer` • `Entrepreneur`
+
+</div>
+
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Robotics, Software Development and Cloud Computing**.
+
+I enjoy transforming ideas into practical solutions and continuously improving my skills through **projects, problem solving and experimentation**.
 
 ```text
-╔══════════════════════════════════════════════╗
-║              DEVELOPER PROFILE               ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🎓 CSE Student                              ║
-║  🤖 AI / ML Enthusiast                       ║
-║  💻 Software Developer                       ║
-║  ☁️ Cloud Explorer                           ║
-║  🦾 Robotics Builder                         ║
-║  🚀 Entrepreneur                             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                    DEVELOPER PROFILE                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  🎓  Computer Science Student                            ║
+║  🤖  AI / ML Enthusiast                                  ║
+║  💻  Software Developer                                  ║
+║  🦾  Robotics Explorer                                   ║
+║  ☁️  Cloud Computing Learner                             ║
+║  🧩  DSA & Problem Solving                               ║
+║  🚀  Technology & Entrepreneurship                       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
-I'm a **Computer Science student at VIT-AP University** passionate about building intelligent systems, solving real-world problems and turning ideas into practical products.
-
-I enjoy working across **Artificial Intelligence, Machine Learning, Robotics, Software Development and Cloud Computing**.
-
-### 🔭 Currently Exploring
-
-* 🧩 Data Structures & Algorithms
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* ☁️ AWS & Cloud Computing
-* 📱 Flutter Development
-* 🦾 Robotics & Computer Vision
-* 🚀 Technology & Entrepreneurship
 
 ---
 
-# 🧬 TECH STACK
+# 🧑‍💻 ABOUT ME
 
-### 💻 Languages
+<table>
+<tr>
 
-<p align="center">
+<td width="55%">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart" />
+### 🚀 Who I Am
 
-</p>
+* 🎓 Computer Science student at **VIT-AP University**
+* 🤖 Exploring **AI & Machine Learning**
+* 💻 Developing with **Java, Python, C/C++ and Dart**
+* 🧩 Practicing **Data Structures & Algorithms**
+* ☁️ Learning **AWS & Cloud Computing**
+* 📱 Building applications using **Flutter**
+* 🦾 Interested in **Robotics & Computer Vision**
+* 🚀 Interested in **Innovation & Entrepreneurship**
 
-### 🤖 AI / Machine Learning
+### 🎯 My Mission
 
-<p align="center">
+> **Learn technology. Build solutions. Solve real problems. Create impact.**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</td>
 
-</p>
+<td width="45%" align="center">
 
-<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<br><br>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=400&lines=Always+Learning...;Always+Building...;Always+Improving..."/>
 
-### ☁️ Cloud / Development / Tools
+</td>
 
-<p align="center">
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=aws,flutter,mysql,git,github,vscode,arduino" />
+---
 
-</p>
+# ⚡ TECHNOLOGY ARSENAL
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart&theme=dark"/>
+
+<br><br>
+
+## 🤖 AI • ML • Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<br><br>
+
+## ☁️ Cloud • Development • Tools
+
+<img src="https://skillicons.dev/icons?i=aws,flutter,mysql,git,github,vscode,arduino&theme=dark"/>
+
+</div>
 
 ---
 
@@ -96,15 +134,19 @@ I enjoy working across **Artificial Intelligence, Machine Learning, Robotics, So
 
 ## 🤖 DustEvo Rover
 
-<img src="https://img.icons8.com/fluency/96/robot-2.png"/>
+<img src="https://img.icons8.com/fluency/96/robot-2.png">
 
-**AI-Powered Autonomous Waste Collection Rover**
+### Autonomous Waste Collection
 
-AI-based robotic system designed to detect, collect and segregate waste.
+AI-powered robotic rover designed for intelligent waste detection, collection and segregation.
 
-**Tech**
+**Core Technologies**
 
-`AI` `Computer Vision` `Robotics` `Arduino`
+`AI` `Computer Vision`
+`Robotics` `Sensors`
+`Arduino` `Automation`
+
+♻️ **Smart Waste Management**
 
 </td>
 
@@ -112,15 +154,19 @@ AI-based robotic system designed to detect, collect and segregate waste.
 
 ## 💊 DosePulse
 
-<img src="https://img.icons8.com/fluency/96/pill.png"/>
+<img src="https://img.icons8.com/fluency/96/pill.png">
 
-**Smart Medicine Scheduling App**
+### Smart Medicine Scheduler
 
-Flutter application for managing medicines, schedules, reminders and notifications.
+Mobile application designed to manage medicines, schedules, reminders and notifications.
 
-**Tech**
+**Core Technologies**
 
-`Flutter` `Dart` `Mobile` `Local Storage`
+`Flutter` `Dart`
+`Notifications`
+`Local Storage`
+
+📱 **Smart Scheduling**
 
 </td>
 
@@ -128,15 +174,19 @@ Flutter application for managing medicines, schedules, reminders and notificatio
 
 ## 🛣️ Road Safety AI
 
-<img src="https://img.icons8.com/fluency/96/car.png"/>
+<img src="https://img.icons8.com/fluency/96/car.png">
 
-**AI-Based Road Safety System**
+### Intelligent Road Monitoring
 
-Deep-learning and computer-vision approach for intelligent road monitoring.
+Deep-learning and computer-vision based approach for intelligent road-safety monitoring.
 
-**Tech**
+**Core Technologies**
 
-`Deep Learning` `OpenCV` `AI`
+`Deep Learning`
+`Computer Vision`
+`OpenCV` `AI`
+
+⚠️ **Intelligent Safety**
 
 </td>
 
@@ -145,147 +195,368 @@ Deep-learning and computer-vision approach for intelligent road monitoring.
 
 ---
 
-# 🧠 MY DEVELOPMENT JOURNEY
+# 🧠 KNOWLEDGE MAP
 
-```text
-                 ┌──────────────────┐
-                 │   PROGRAMMING    │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ DSA & ALGORITHMS │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ MACHINE LEARNING │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │  DEEP LEARNING   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │  CLOUD / AWS     │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ PRODUCT BUILDING │
-                 └──────────────────┘
+```mermaid
+mindmap
+  root((Vivek))
+    Programming
+      Java
+      Python
+      C
+      C++
+      Dart
+
+    Artificial Intelligence
+      Machine Learning
+      Deep Learning
+      Computer Vision
+
+    Development
+      Flutter
+      Git
+      GitHub
+      MySQL
+
+    Cloud
+      AWS
+      Cloud Computing
+
+    Robotics
+      Arduino
+      Sensors
+      Automation
+
+    Problem Solving
+      Data Structures
+      Algorithms
+      Competitive Programming
+
+    Entrepreneurship
+      Innovation
+      Product Building
+      Real World Solutions
 ```
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📚 LEARNING ROADMAP
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED" />
+```text
+                   🧑‍💻 PROGRAMMING
+                         │
+                         ▼
+                🧩 DATA STRUCTURES
+                         │
+                         ▼
+                  ⚡ ALGORITHMS
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+             🤖         💻         ☁️
+            AI/ML      SOFTWARE     AWS
+              │          │          │
+              ▼          ▼          ▼
+        🧠 DEEP ML    📱 FLUTTER   🌐 CLOUD
+              │          │          │
+              └──────────┼──────────┘
+                         ▼
+                  🚀 PRODUCT BUILDING
+                         │
+                         ▼
+                     🌎 IMPACT
+```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
+</div>
 
-</p>
+---
+
+# 🔥 WHAT I'M CURRENTLY WORKING ON
+
+<table>
+
+<tr>
+<td>🧩</td>
+<td><b>Data Structures & Algorithms</b></td>
+<td>Improving problem-solving skills with Java</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>Artificial Intelligence</b></td>
+<td>Building practical AI/ML projects</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Deep Learning</b></td>
+<td>Exploring neural networks and computer vision</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><b>AWS</b></td>
+<td>Learning cloud infrastructure and services</td>
+</tr>
+
+<tr>
+<td>📱</td>
+<td><b>Flutter</b></td>
+<td>Building useful mobile applications</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Innovation</b></td>
+<td>Turning ideas into technology products</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
+
+</div>
 
 ---
 
 # 🔥 CONTRIBUTION STREAK
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
-</p>
-
----
-
-# 🐍 CONTRIBUTION ANIMATION
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
+</div>
 
 ---
 
-# 📈 GITHUB ACTIVITY
+# 📈 CONTRIBUTION ACTIVITY
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%">
 
-</p>
+</div>
+
+---
+
+# 🐍 GITHUB CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+
+</div>
 
 ---
 
 # 🏆 GITHUB TROPHIES
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4">
 
-</p>
+</div>
 
 ---
 
-# 🎯 CURRENT MISSION
+# 🧩 PROBLEM SOLVING MINDSET
+
+<div align="center">
 
 ```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│   [✓] Master Data Structures & Algorithms              │
-│   [✓] Build Practical AI/ML Projects                   │
-│   [→] Deepen Deep Learning Knowledge                   │
-│   [→] Master AWS & Cloud Computing                     │
-│   [→] Build Production-Ready Applications              │
-│   [→] Create Innovative Technology Products             │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
+                 ┌───────────────┐
+                 │    PROBLEM    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   UNDERSTAND  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    ANALYZE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    DESIGN     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     CODE      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     TEST      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   OPTIMIZE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    SOLVED 🚀  │
+                 └───────────────┘
 ```
+
+</div>
 
 ---
 
-# 💡 MY PHILOSOPHY
+# 🛠️ DEVELOPMENT PHILOSOPHY
 
-<p align="center">
+<table>
+<tr>
 
-### `"The best way to predict the future is to build it."` 🚀
+<td align="center" width="25%">
 
-</p>
+### 🧠
 
-<p align="center">
+**LEARN**
 
-**Build. Break. Learn. Improve. Repeat.**
+Understand before building.
 
-</p>
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**BUILD**
+
+Turn knowledge into projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+
+**EXPERIMENT**
+
+Try. Fail. Improve.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**INNOVATE**
+
+Create meaningful solutions.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌌 BEYOND CODE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       LEARN       →       BUILD       →       IMPACT  ║
+║                                                      ║
+║          Ideas are easy. Execution is everything.    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 💭 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+<br><br>
+
+### 🚀 `Build. Break. Learn. Improve. Repeat.`
+
+</div>
+
+---
+
+# 🎯 2026 GOALS
+
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  [✓] Strengthen Programming Fundamentals             │
+│                                                      │
+│  [→] Master Data Structures & Algorithms              │
+│                                                      │
+│  [→] Build Advanced AI / ML Projects                 │
+│                                                      │
+│  [→] Explore Deep Learning & Computer Vision         │
+│                                                      │
+│  [→] Become Proficient in AWS                        │
+│                                                      │
+│  [→] Build Production-Ready Applications             │
+│                                                      │
+│  [→] Create Innovative Technology Products            │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
 ---
 
 # 🌐 CONNECT WITH ME
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# ⭐ SUPPORT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=120&section=footer&animation=fadeIn"/>
+<div align="center">
 
-</p>
+If you find my projects interesting, consider giving them a ⭐
 
-<p align="center">
+<br>
 
-### ⭐ Thanks for visiting my profile!
+**Every star motivates me to build more! 🚀**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Keep+Creating.;See+you+in+the+next+commit+%F0%9F%9A%80" />
+</div>
 
-</p>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING+%F0%9F%A7%A0;KEEP+BUILDING+%F0%9F%92%BB;KEEP+INNOVATING+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:090979,100:020024&height=150&section=footer&animation=fadeIn">
+
+</div>
