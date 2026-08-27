@@ -1,191 +1,291 @@
-# 👋 Hi, I'm Vivek
+# 👋 Hi, I'm Vivek Vardhan
 
-### 🚀 Computer Science Student | AI & ML Enthusiast | Developer | Entrepreneur
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Developer;Robotics+Explorer;Cloud+Learner;Entrepreneur" />
+</p>
 
-I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Software Development, Cloud Computing, and Robotics**. I enjoy turning ideas into practical solutions and continuously improving my problem-solving and development skills.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=180&section=header&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-Currently, I’m focused on building strong foundations in **Data Structures & Algorithms, Java, AI/ML, Cloud Computing, and Full-Stack Development**.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 Computer Science Student at **VIT-AP University**
-* 🤖 Interested in **AI, Machine Learning & Robotics**
-* 💻 Practicing **Data Structures & Algorithms with Java**
-* ☁️ Exploring **AWS & Cloud Computing**
-* 📱 Building applications with **Flutter**
-* 🚀 Interested in **Technology, Innovation & Entrepreneurship**
-* 🧠 Always learning, building and experimenting with new technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0b1020" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=f59e0b&labelColor=0b1020" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ WHO AM I?
 
-### 💻 Programming
+<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+```text
+╔══════════════════════════════════════════════╗
+║              DEVELOPER PROFILE               ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🎓 CSE Student                              ║
+║  🤖 AI / ML Enthusiast                       ║
+║  💻 Software Developer                       ║
+║  ☁️ Cloud Explorer                           ║
+║  🦾 Robotics Builder                         ║
+║  🚀 Entrepreneur                             ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+I'm a **Computer Science student at VIT-AP University** passionate about building intelligent systems, solving real-world problems and turning ideas into practical products.
+
+I enjoy working across **Artificial Intelligence, Machine Learning, Robotics, Software Development and Cloud Computing**.
+
+### 🔭 Currently Exploring
+
+* 🧩 Data Structures & Algorithms
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ☁️ AWS & Cloud Computing
+* 📱 Flutter Development
+* 🦾 Robotics & Computer Vision
+* 🚀 Technology & Entrepreneurship
+
+---
+
+# 🧬 TECH STACK
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart" />
+
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 </p>
 
-### ☁️ Cloud & Development
+### ☁️ Cloud / Development / Tools
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+<p align="center">
 
-### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=aws,flutter,mysql,git,github,vscode,arduino" />
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 🤖 DustEvo Rover
+<table>
+<tr>
 
-**AI-Powered Autonomous Waste Collection & Segregation Rover**
+<td width="33%" align="center">
 
-An autonomous robotic system designed to detect, collect and segregate waste using **computer vision, sensors, embedded systems and robotic automation**.
+## 🤖 DustEvo Rover
 
-**Key Features**
+<img src="https://img.icons8.com/fluency/96/robot-2.png"/>
 
-* 🧠 AI-based waste detection
-* ♻️ Dry & wet waste classification
-* 🤖 Autonomous navigation
-* 🚧 Obstacle avoidance
-* 🦾 Robotic arm for waste collection
-* 🌱 Smart waste-management approach
+**AI-Powered Autonomous Waste Collection Rover**
+
+AI-based robotic system designed to detect, collect and segregate waste.
+
+**Tech**
+
+`AI` `Computer Vision` `Robotics` `Arduino`
+
+</td>
+
+<td width="33%" align="center">
+
+## 💊 DosePulse
+
+<img src="https://img.icons8.com/fluency/96/pill.png"/>
+
+**Smart Medicine Scheduling App**
+
+Flutter application for managing medicines, schedules, reminders and notifications.
+
+**Tech**
+
+`Flutter` `Dart` `Mobile` `Local Storage`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🛣️ Road Safety AI
+
+<img src="https://img.icons8.com/fluency/96/car.png"/>
+
+**AI-Based Road Safety System**
+
+Deep-learning and computer-vision approach for intelligent road monitoring.
+
+**Tech**
+
+`Deep Learning` `OpenCV` `AI`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 💊 DosePulse
-
-**Smart Medicine Scheduling Application**
-
-A Flutter-based application designed to help users manage multiple medicines and their schedules through **timers, reminders, notifications and local storage**.
-
-**Key Features**
-
-* 💊 Multiple medicine management
-* ⏰ Custom medication schedules
-* 🔔 Reminder notifications
-* 💾 Local data storage
-* 📱 Mobile-first interface
-
----
-
-### 🛣️ Road Safety AI
-
-**AI-Based Road Safety & Intelligent Monitoring System**
-
-A deep-learning focused project exploring how computer vision and AI can be used to identify road-safety risks and assist in intelligent transportation systems.
-
-**Focus Areas**
-
-* 🚗 Road-scene understanding
-* 👁️ Computer vision
-* 🧠 Deep learning
-* ⚠️ Risk detection
-* 📊 Intelligent monitoring
-
----
-
-## 📚 Currently Learning
+# 🧠 MY DEVELOPMENT JOURNEY
 
 ```text
-Java & Data Structures
-        ↓
-Algorithms & Problem Solving
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Cloud Computing & AWS
-        ↓
-Software & Application Development
+                 ┌──────────────────┐
+                 │   PROGRAMMING    │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ DSA & ALGORITHMS │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ MACHINE LEARNING │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │  DEEP LEARNING   │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │  CLOUD / AWS     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ PRODUCT BUILDING │
+                 └──────────────────┘
 ```
 
 ---
 
-## 🎯 My Current Goals
-
-* 🧩 Strengthen **Data Structures & Algorithms**
-* 🤖 Build practical **AI/ML projects**
-* ☁️ Become proficient in **AWS & Cloud Computing**
-* 💻 Develop production-quality software
-* 🚀 Build innovative technology products
-* 🌎 Contribute to meaningful open-source projects
-
----
-
-## 📊 GitHub Activity
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
+
 </p>
 
 ---
 
-## 🧠 Problem Solving
-
-I regularly practice programming problems to improve my:
-
-* Data Structures
-* Algorithms
-* Logical Thinking
-* Problem Solving
-* Time & Space Complexity
-
-**Primary Language:** Java ☕
-
----
-
-## 🌱 What I Believe
-
-> **Build. Break. Learn. Improve. Repeat.**
-
-Technology is not just about writing code — it's about **solving real problems and creating meaningful solutions.**
-
----
-
-## 🤝 Let's Connect
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" />
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION ANIMATION
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 📈 GITHUB ACTIVITY
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</p>
+
+---
+
+# 🎯 CURRENT MISSION
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   [✓] Master Data Structures & Algorithms              │
+│   [✓] Build Practical AI/ML Projects                   │
+│   [→] Deepen Deep Learning Knowledge                   │
+│   [→] Master AWS & Cloud Computing                     │
+│   [→] Build Production-Ready Applications              │
+│   [→] Create Innovative Technology Products             │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 💡 MY PHILOSOPHY
+
+<p align="center">
+
+### `"The best way to predict the future is to build it."` 🚀
+
+</p>
+
+<p align="center">
+
+**Build. Break. Learn. Improve. Repeat.**
+
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ If you find my projects interesting, consider giving them a star!</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=120&section=footer&animation=fadeIn"/>
+
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Keep+Creating.;See+you+in+the+next+commit+%F0%9F%9A%80" />
+
 </p>
